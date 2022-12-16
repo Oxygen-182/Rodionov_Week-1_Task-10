@@ -1,0 +1,12 @@
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_10_form\ConsoleApp_10_form\bin\Debug\ConsoleApp_10_form.exe.config
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_10_form\ConsoleApp_10_form\bin\Debug\ConsoleApp_10_form.exe
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_10_form\ConsoleApp_10_form\bin\Debug\ConsoleApp_10_form.pdb
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_10_form\ConsoleApp_10_form\obj\Debug\ConsoleApp_10_form.csprojResolveAssemblyReference.cache
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_10_form\ConsoleApp_10_form\obj\Debug\ConsoleApp_10_form.Form1.resources
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_10_form\ConsoleApp_10_form\obj\Debug\ConsoleApp_10_form.Properties.Resources.resources
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_10_form\ConsoleApp_10_form\obj\Debug\ConsoleApp_10_form.csproj.GenerateResource.Cache
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_10_form\ConsoleApp_10_form\obj\Debug\ConsoleApp_10_form.exe
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_10_form\ConsoleApp_10_form\obj\Debug\ConsoleApp_10_form.pdb
+E:\УПК\Нед_3\Задание_10\ConsoleApp_10_form\ConsoleApp_10_form\bin\Debug\ConsoleApp_10_form.exe.config
+E:\УПК\Нед_3\Задание_10\ConsoleApp_10_form\ConsoleApp_10_form\obj\Debug\ConsoleApp_10_form.exe
+E:\УПК\Нед_3\Задание_10\ConsoleApp_10_form\ConsoleApp_10_form\obj\Debug\ConsoleApp_10_form.pdb

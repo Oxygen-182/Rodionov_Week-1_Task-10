@@ -1,0 +1,13 @@
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_10\ConsoleApp_10\bin\Debug\ConsoleApp_10.exe.config
+E:\УПК\ConsoleApp_10\ConsoleApp_10\bin\Debug\ConsoleApp_10.exe.config
+E:\УПК\ConsoleApp_10\ConsoleApp_10\bin\Debug\ConsoleApp_10.exe
+E:\УПК\ConsoleApp_10\ConsoleApp_10\bin\Debug\ConsoleApp_10.pdb
+E:\УПК\ConsoleApp_10\ConsoleApp_10\obj\Debug\ConsoleApp_10.csprojResolveAssemblyReference.cache
+E:\УПК\ConsoleApp_10\ConsoleApp_10\obj\Debug\ConsoleApp_10.exe
+E:\УПК\ConsoleApp_10\ConsoleApp_10\obj\Debug\ConsoleApp_10.pdb
+E:\УПК\Нед_3\Задание_10\ConsoleApp_10\ConsoleApp_10\bin\Debug\ConsoleApp_10.exe.config
+E:\УПК\Нед_3\Задание_10\ConsoleApp_10\ConsoleApp_10\obj\Debug\ConsoleApp_10.exe
+E:\УПК\Нед_3\Задание_10\ConsoleApp_10\ConsoleApp_10\obj\Debug\ConsoleApp_10.pdb
+E:\УПК\Нед_3\Задание_10\ConsoleApp_10\ConsoleApp_10\bin\Debug\ConsoleApp_10.exe
+E:\УПК\Нед_3\Задание_10\ConsoleApp_10\ConsoleApp_10\bin\Debug\ConsoleApp_10.pdb
+E:\УПК\Нед_3\Задание_10\ConsoleApp_10\ConsoleApp_10\obj\Debug\ConsoleApp_10.csprojResolveAssemblyReference.cache
